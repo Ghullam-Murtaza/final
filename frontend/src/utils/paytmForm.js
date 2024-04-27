@@ -1,4 +1,5 @@
 
+
 function isDate(val) {
     // Cross realm comptatible
     return Object.prototype.toString.call(val) === '[object Date]'
