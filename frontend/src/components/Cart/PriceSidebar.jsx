@@ -1,4 +1,5 @@
 
+
 const PriceSidebar = ({ cartItems }) => {
     return (
         <div className="flex sticky top-16 sm:h-screen flex-col sm:w-4/12 sm:px-1">
